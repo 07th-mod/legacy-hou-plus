@@ -12,7 +12,7 @@ This patch requires you have a copy of Hou+. The patch only includes the script 
 ## Installation Instructions
 
 1. Install Hou+ on your computer from DVD.
-2. Download the latet Hou+ English translation patch from [this repository](https://github.com/07th-mod/higurashi-hou-plus/releases/latest). It will be a single zip file.
+2. Download the latest Hou+ English translation patch from [this repository](https://github.com/07th-mod/higurashi-hou-plus/releases/latest). It will be a single zip file.
 3. Locate the higurasiHouPlus folder on your computer. (By default it installs to C:\Program Files (x86)\07th Expansion\higurasiHouPlus)
 4. There are four folders beneath the higurasiHouPlus folder. Hou+ is the second one, it's labeled 'ひぐらしのなく頃に　奉+' or '‚Ð‚®‚ç‚µ‚Ì‚È‚­ ‚É•ò{' if you don't have Japanese locale set up correctly. You can tell which folder is the right one because it will have an executable with this icon: ![image](https://user-images.githubusercontent.com/20390474/153778167-d8e11336-42a1-4bde-9571-7f88f495527e.png)
 
